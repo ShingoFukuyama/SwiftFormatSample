@@ -8,6 +8,7 @@ This is a sample project of [SwiftFormat](https://github.com/nicklockwood/SwiftF
 
 * Xcode 13.4
 * Swift 5.6
+* SwiftFormat 0.49.11
 
 ## Directory Tree
 

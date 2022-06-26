@@ -1,5 +1,5 @@
-import XCTest
 @testable import BuildTools
+import XCTest
 
 final class BuildToolsTests: XCTestCase {
     func testExample() throws {
